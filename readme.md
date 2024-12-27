@@ -1,0 +1,2 @@
+# A repo for learning React
+### Concepts learnt: Topics include JSX, components (functional and class), props, state management, lifecycle methods, event handling, conditional rendering, forms, hooks (useState, useEffect, useContext), routing with React Router, lifting state, performance optimization with memoization, higher-order components, context API, portals, error boundaries, and testing with React Testing Library.
